@@ -1,1 +1,16 @@
-
+{
+  "server-address": [
+    "COMMING SOON"
+  ],
+  "pretty-name": "Arcane SMP",
+  "categorys": [
+    "SMP",
+    "SURVIVAL",
+    "VANILLA",
+    "CUSTOM"
+  ],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  }
+}
